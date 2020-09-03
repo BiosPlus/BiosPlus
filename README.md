@@ -7,9 +7,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Lady Oracle, a fully modular discord bot](https://github.com/BiosPlus/LadyOracle)
-<!-- - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Pro Wrestling, why linkedin sucks, 
 - 📫 How to reach me: [Keybase @ biosplus](https://keybase.io/biosplus)
 - 😄 Pronouns: He/Him
+
+<!-- - 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
