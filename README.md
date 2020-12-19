@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-### Mr Black - 25, Melbourne, Single (too focused on world domination).
+### Mr Black - 25, Melbourne, Somewhat taken (dating isn't too hard, it's just time consuming).
 #### tldr: Critics hate me, but dogs 🐕, cats 🐈, and some people like me 🤟
 
 - 🔭 I’m currently working on [Lady Oracle, a fully modular discord bot](https://github.com/BiosPlus/LadyOracle)
