@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-### Mr Black - 25, Melbourne, Somewhat taken (dating isn't too hard, it's just time consuming).
+### Mr Black - 25, Melbourne, Taken (dating isn't too hard, it's just time consuming).
 #### tldr: Critics hate me, but dogs 🐕, cats 🐈, and some people like me 🤟
 
 - 🔭 I’m currently working on [A template for my piracy stuff, all with hostname based containers and smart naming conventions!](https://github.com/BiosPlus/PiracyServer)
