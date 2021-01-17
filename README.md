@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Pro Wrestling, why linkedin sucks, why it feels so good to troll linkedin, the joy of drinking.
 - 📫 How to reach me: [Keybase @ biosplus](https://keybase.io/biosplus)
 - 😄 Pronouns: He/Him
-- 🥰🤯 Schizoaffective ball of fun. You can both have a mental illness and still be mentally strong (~ Cecilia Mcgough)
 - Blood: 🅰️+
 - Favourite things: 🤼🍺👺✍️🐕🍌🍺🍺🍺🎭
 
