@@ -4,11 +4,11 @@
 Here are some ideas to get you started:
 -->
 
-### Mr Black - 25, Melbourne, Taken (dating isn't too hard, it's just time consuming).
+### Mr Black - 27, Melbourne.
 #### tldr: Critics hate me, but dogs 🐕, cats 🐈, and some people like me 🤟
 
-- 🔭 I’m currently working on [A template for my piracy stuff, all with hostname based containers and smart naming conventions!](https://github.com/BiosPlus/PiracyServer)
-- 💬 Ask me about Pro Wrestling, why it feels so good to troll linkedin, the joy of drinking.
+- 🔭 I’m currently working on [a github hosted site that calls out bad vendor practices!](https://github.com/BiosPlus/wallofshame)
+- 💬 Ask me about Pro Wrestling, why it feels so good to troll linkedin, how I care for my long hair.
 - 📫 How to reach me: [Keybase @ biosplus](https://keybase.io/biosplus)
 - 😄 Pronouns: He/Him
 - Blood: 🅰️+
