@@ -4,15 +4,14 @@
 Here are some ideas to get you started:
 -->
 
-### Mr Black - 27, Melbourne.
-#### tldr: Critics hate me, but dogs 🐕, cats 🐈, and some people like me 🤟
+### Mr Black - 20somethingorwhatever, Melbourne.
+#### tldr: Critics hate me, but dogs 🐕, and some people like me 🤟
 
-- 🔭 I’m currently working on [a github hosted site that calls out bad vendor practices!](https://github.com/BiosPlus/wallofshame)
 - 💬 Ask me about Pro Wrestling, why it feels so good to troll linkedin, how I care for my long hair.
-- 📫 How to reach me: [Keybase @ biosplus](https://keybase.io/biosplus)
+- 📫 How to reach me: Shout really loudly into the void
 - 😄 Pronouns: He/Him
 - Blood: 🅰️+
-- Favourite things: 🤼🍺👺✍️🐕🍌🍺🍺🍺🎭
+- Favourite things: 🤼🍺👺✍️🐕🍌🎭
 
 
 <!-- - 🌱 I’m currently learning ...
