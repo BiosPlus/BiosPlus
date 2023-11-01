@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 #### tldr: Critics hate me, but dogs 🐕, and some people like me 🤟
 
 - 💬 Ask me about Pro Wrestling, why it feels so good to troll linkedin, how I care for my long hair.
-- 📫 How to reach me: Shout really loudly into the void
+- 📫 How to reach me: Shout really loudly into the void (or mutter that Omega v Okada 4 was not the best of the series (you're wrong))
 - 😄 Pronouns: He/Him
 - Blood: 🅰️+
-- Favourite things: 🤼🍺👺✍️🐕🍌🎭
+- Favourite things: 🤼👺✍️🐕🍌🎭
 
 
 <!-- - 🌱 I’m currently learning ...
