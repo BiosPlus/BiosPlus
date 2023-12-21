@@ -11,7 +11,6 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/bymichaeljon"><img src="https://img.shields.io/badge/LinkedIn-bymichaeljon-blue" alt="LinkedIn"></a>
     <a href="https://github.com/BiosPlus"><img src="https://img.shields.io/badge/GitHub-BiosPlus-white" alt="GitHub"></a>
     <a href="https://jonblack.gg/"><img src="https://img.shields.io/badge/Blog-JonBlack.gg-black" alt="Docker Hub"></a>
-    <a href="https://spotify.com/your-youtube-channel"><img src="https://img.shields.io/badge/YouTube-Jon Black-darkred" alt="YouTube"></a>
     <a href="https://open.spotify.com/user/bios_"><img src="https://img.shields.io/badge/Spotify-Bios__-darklime" alt="LastFM"></a>
     <a href="https://www.last.fm/user/Bios_"><img src="https://img.shields.io/badge/Last.fm-Bios__-red" alt="YouTube"></a>
 </div>
