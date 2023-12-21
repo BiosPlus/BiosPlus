@@ -14,6 +14,9 @@ Here are some ideas to get you started:
     <a href="https://open.spotify.com/user/bios_"><img src="https://img.shields.io/badge/Spotify-Bios__-darklime" alt="LastFM"></a>
     <a href="https://www.last.fm/user/Bios_"><img src="https://img.shields.io/badge/Last.fm-Bios__-red" alt="YouTube"></a>
 </div>
+<br>
+
+[![Visits Badge](https://badges.pufler.dev/visits/biosplus/biosplus)](https:jonblack.gg)
 
 ---
 # Heyo 😊
