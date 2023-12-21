@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-## Heyo 😊
+# Heyo 😊
 
 My name is Michael Jon Ovcaric (he/him). This is a work in progress.
 
@@ -35,6 +35,17 @@ My name is Michael Jon Ovcaric (he/him). This is a work in progress.
 🎉 Favourite things: 🤼👺✍️🐕🍌🎭
 
 ✍️ My quote? ***"I'll live, I always do, until I don't"***
+
+---
+
+# The Nitty Gritty
+
+---
+
+# The Fun Stuff
+
+---
+
 
 
 <!-- [[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=bios_&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=48b7b1&bar_color_cover=false)]] -->
