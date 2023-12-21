@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 My name is Michael Jon Ovcaric (he/him). This is a work in progress.
 
-### The TL:DR
+## The TL:DR
 
 🏢 Work: Systems Administrator.
 
