@@ -40,9 +40,13 @@ My name is Michael Jon Ovcaric (he/him). This is a work in progress.
 
 # The Nitty Gritty
 
+Text Here
+
 ---
 
 # The Fun Stuff
+
+Text Here
 
 ---
 
