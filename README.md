@@ -7,14 +7,14 @@ Here are some ideas to get you started:
     <a href=""><img src="images/header.webp" alt=""></a>
 </div>
 <br>
-<div style="display: flex; justify-content: space-between;">
-    <a href="https://www.linkedin.com/in/bymichaeljon"><img src=https://img.shields.io/badge/LinkedIn-byMichaelJon-2962FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://github.com/BiosPlus"><img src="https://img.shields.io/badge/Github - BiosPlus -100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://jonblack.gg/"><img src="https://img.shields.io/badge/Blog - JonBlack.GG-000?style=for-the-badge&logo=ghost&logoColor=white" alt="Docker Hub"></a>
-    <a href="https://open.spotify.com/user/bios_"><img src="https://img.shields.io/badge/Spotify-Bios__-00C300?&style=for-the-badge&logo=spotify&logoColor=white" alt="LastFM"></a>
-    <a href="https://www.last.fm/user/Bios_"><img src="https://img.shields.io/badge/LastFM - Bios__-D51007?style=for-the-badge&logo=last.fm&logoColor=white" alt="YouTube"></a>
-</div>
-<br>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-byMichaelJon-2962FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bymichaeljon)
+[![GitHub](https://img.shields.io/badge/Github%20-%20BiosPlus%20-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BiosPlus)
+[![Blog - JonBlack.GG](https://img.shields.io/badge/Blog%20-%20JonBlack.GG-000?style=for-the-badge&logo=ghost&logoColor=white)](https://jonblack.gg/)
+[![Spotify - Bios_](https://img.shields.io/badge/Spotify-Bios__-00C300?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/bios_)
+[![LastFM - Bios_](https://img.shields.io/badge/LastFM%20-%20Bios__-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/Bios_)
+
 
 ---
 # Heyo 😊
