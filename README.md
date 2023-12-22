@@ -10,7 +10,11 @@
 
 ## Heyo 😊
 
-My name is Michael Jon Ovcaric **(he/him)**.
+My name is Michael Jon Ovcaric **(he/him)**, aka:
+- Jon Black [(jonblack.gg)](jonblack.gg)
+- BiosPlus [(bios.plus)](bios.plus)
+
+But people just call me Mike / Micky B / Hey You / Bios for short.
 
 ## The TL:DR
 
@@ -46,6 +50,14 @@ My name is Michael Jon Ovcaric **(he/him)**.
 ## The Fun Stuff
 
 I have **42** tattoos as of 2023/12/02
+
+---
+These are my recent Github Actions:
+
+<!--START_SECTION:activity-->
+
+---
+
 
 <table>
     <tr>
