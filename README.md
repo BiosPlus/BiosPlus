@@ -1,4 +1,4 @@
-![Header](images/header.webp)
+![Header](Profile/Assets/Images/Optimized/Other/header.webp)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-byMichaelJon-2962FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bymichaeljon)
 [![Blog - JonBlack.GG](https://img.shields.io/badge/Blog%20-%20JonBlack.GG-000?style=for-the-badge&logo=ghost&logoColor=white)](https://jonblack.gg/)
@@ -57,8 +57,8 @@ I have **42** tattoos as of 2023/12/02
             <td colspan="2"><center>Some of my past profile pictures ;)</center></td>
         </tr>
     <tr>
-        <td><img src="images/pfps/burgertime.png" alt="Burgertime!" width="200px"></td>
-        <td><img src="images/pfps/mucha_zodiac.png" alt="Mucha_Zodiac" width="200px"></td>
+        <td><img src="Profile/Assets/Images/Optimized/Profile_Pictures/burgertime.webp" alt="Burgertime!" width="200px"></td>
+        <td><img src="Profile/Assets/Images/Optimized/Profile_Pictures/mucha_zodiac.webp" alt="Mucha_Zodiac" width="200px"></td>
     </tr>
     <tr>
         <td><center>Burger Time</center></td>
