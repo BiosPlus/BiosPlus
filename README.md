@@ -50,3 +50,7 @@ I guess you could consider these my strengths.
 ## The Fun Stuff
 
 I have **42** tattoos as of 2023/12/02
+
+---
+
+*```Forking my README.md is lazy```*
