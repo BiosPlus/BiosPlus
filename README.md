@@ -51,6 +51,21 @@ I guess you could consider these my strengths.
 
 I have **42** tattoos as of 2023/12/02
 
+<table>
+    <tr>
+        <tr>
+            <td colspan="2"><center>Some of my past profile pictures ;)</center></td>
+        </tr>
+    <tr>
+        <td><img src="images/pfps/burgertime.png" alt="Burgertime!" width="200px"></td>
+        <td><img src="images/pfps/mucha_zodiac.png" alt="Mucha_Zodiac" width="200px"></td>
+    </tr>
+    <tr>
+        <td><center>Burger Time</center></td>
+        <td><center>Mucha's Zodiac</center></td>
+    </tr>
+</table>
+
 ---
 
 *```Forking my README.md is lazy```*
