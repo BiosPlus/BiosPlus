@@ -24,11 +24,7 @@ My name is Michael Jon Ovcaric **(he/him)**.
 
 ---
 
-## Specialisations
-
-I guess you could consider these my strengths.
-
-### Tools of choice.
+## Tools of choice.
 
 | Purpose | Preference | Alternatives |
 |---:|:---:|:---:|
