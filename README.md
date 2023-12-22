@@ -24,7 +24,7 @@ My name is Michael Jon Ovcaric **(he/him)**.
 
 ---
 
-## Specialistaions
+## Specialisations
 
 I guess you could consider these my strengths.
 
