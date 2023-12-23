@@ -20,7 +20,7 @@ But people just call me Mike / Micky B / Hey You / Bios for short.
 
 - 🏢 Work: Systems Administrator.
 - 📍 Location: Melbourne, Victoria, Australia.
-- 🤼 Personal Time: Budding professional wrestler. Habbitual jokester.
+- 🤼 Personal Time: Budding professional wrestler. Habitual jokester.
 - 📫 How to reach me: Shout really loudly into the void *(or mutter that Omega v Okada 4 was not the best of the series ***(you're wrong)***)*. But really, [Linkedin](https://www.linkedin.com/in/bymichaeljon).
 - 🩸 Blood: 🅰️+
 - 🎉 Favourite things: 🤼👺✍️🐕🍌🎭
