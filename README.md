@@ -47,8 +47,6 @@ But people just call me Mike / Micky B / Hey You / Bios for short.
 
 ---
 
-
-
 ## The Fun Stuff
 
 I have **42** tattoos as of 2023/12/02
