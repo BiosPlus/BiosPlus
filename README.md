@@ -11,8 +11,8 @@
 ## Heyo 😊
 
 My name is Michael Jon Ovcaric **(he/him)**, aka:
-- Jon Black [(jonblack.gg)](jonblack.gg)
-- BiosPlus [(bios.plus)](bios.plus)
+- Jon Black [(jonblack.gg)](https://jonblack.gg)
+- BiosPlus [(bios.plus)](https://bios.plus)
 
 But people just call me Mike / Micky B / Hey You / Bios for short.
 
