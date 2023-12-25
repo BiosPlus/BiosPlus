@@ -26,7 +26,10 @@ But people just call me Mike / Micky B / Hey You / Bios for short.
 - 🎉 Favourite things: 🤼👺✍️🐕🍌🎭
 - ✍️ My quote? ***"I'll live, I always do"***
 
----
+## My Public SSH Key
+```sh
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIyhYjZqvTfUTM5Kg0T1pWVPJQLN5JVBi1AoqE1PKIC5
+```
 
 ## Tools of choice.
 
