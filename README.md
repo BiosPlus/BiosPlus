@@ -35,7 +35,8 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIyhYjZqvTfUTM5Kg0T1pWVPJQLN5JVBi1AoqE1PKIC5
 
 | Purpose | Preference | Alternatives |
 |---:|:---:|:---:|
-| OS | ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | 
+| OS | ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
+| Connection Manager | ![xpipe](https://img.shields.io/badge/xpipe-000000?style=for-the-badge) | ![Termius](https://img.shields.io/badge/Termius-000000?style=for-the-badge) |
 | Containerisation | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) |
 | DNS | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) | ![Area53](https://img.shields.io/badge/Area53-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white) |
 | Frontend Frameworks | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
