@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-byMichaelJon-2962FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bymichaeljon)
 [![Blog - JonBlack.GG](https://img.shields.io/badge/Blog%20-%20JonBlack.GG-000?style=for-the-badge&logo=ghost&logoColor=white)](https://jonblack.gg/)
-[![GitHub](https://img.shields.io/badge/Github%20-%20BiosPlus%20-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BiosPlus)
+<!-- [![GitHub](https://img.shields.io/badge/Github%20-%20BiosPlus%20-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BiosPlus) -->
 [![Spotify - Bios_](https://img.shields.io/badge/Spotify-Bios__-00C300?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/bios_)
 [![LastFM - Bios_](https://img.shields.io/badge/LastFM%20-%20Bios__-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/Bios_)
 
