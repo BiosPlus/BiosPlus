@@ -53,7 +53,7 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIyhYjZqvTfUTM5Kg0T1pWVPJQLN5JVBi1AoqE1PKIC5
 
 ## The Fun Stuff
 
-I have **42** tattoos as of 2023/12/02
+I have **43** tattoos as of 2024/04/26
 
 ---
 
