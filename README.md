@@ -18,7 +18,7 @@ But people just call me Mike / Micky B / Hey You / Bios for short.
 
 ## The TL:DR
 
-- 🏢 Work: Systems Administrator.
+- 🏢 Work: IT Operations Lead @ (The Conversation)[https://theconversation.com]
 - 📍 Location: Melbourne, Victoria, Australia.
 - 🤼 Personal Time: Budding professional wrestler. Habitual jokester.
 - 📫 How to reach me: Shout really loudly into the void *(or mutter that Omega v Okada 4 was not the best of the series ***(you're wrong)***)*. But really, [Linkedin](https://www.linkedin.com/in/bymichaeljon).
