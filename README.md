@@ -1,4 +1,6 @@
-![Header](Profile/Assets/Images/Optimized/Other/header.webp)
+<!-- I think this may be too much img lol
+![Header](Profile/Assets/Images/Optimized/Other/header.webp) 
+-->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-byMichaelJon-2962FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bymichaeljon)
 [![Blog - JonBlack.GG](https://img.shields.io/badge/Blog%20-%20JonBlack.GG-000?style=for-the-badge&logo=hugo&logoColor=white)](https://jonblack.gg/)
@@ -10,7 +12,7 @@
 
 ## Heyo 😊
 
-My name is Michael Jon Ovcaric **(he/him)**, aka:
+My name is Michael Jon **(he/him)**, aka:
 - Jon Black [(jonblack.gg)](https://jonblack.gg)
 - BiosPlus [(bios.plus)](https://bios.plus)
 
@@ -24,7 +26,7 @@ But people just call me Mike / Micky B / Hey You / Bios for short.
 - 📫 How to reach me: Shout really loudly into the void *(or mutter that Omega v Okada 4 was not the best of the series ***(you're wrong)***)*. But really, [Linkedin](https://www.linkedin.com/in/bymichaeljon).
 - 🩸 Blood: 🅰️+
 - 🎉 Favourite things: 🤼👺✍️🐕🍌🎭
-- ✍️ My quote? ***"I'll live, I always do"***
+- ✍️ My quote? ***"I'll live, I always do"*** or ***"Ass"***
 
 ## My Public SSH Key
 ```sh
