@@ -23,8 +23,6 @@ But people just call me Mike / Micky B / Hey You / Bios for short.
 - 📍 Location: Melbourne, Victoria, Australia.
 - 🤼 Personal Time: Budding professional wrestler. Habitual jokester.
 - 📫 How to reach me: Shout really loudly into the void *(or mutter that Omega v Okada 4 was not the best of the series ***(you're wrong)***)*. But really, you can open a [discussion in here](https://github.com/BiosPlus/BiosPlus/discussions).
-- 🩸 Blood: 🅰️+
-- 🎉 Favourite things: 🤼👺✍️🐕🍌🎭
 - ✍️ My quote? ***"I'll live, I always do"*** or ***"Ass"***
 
 ## My Public SSH Key
