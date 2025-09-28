@@ -46,13 +46,8 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIyhYjZqvTfUTM5Kg0T1pWVPJQLN5JVBi1AoqE1PKIC5
 
 ## The Fun Stuff
 
-I have **43** tattoos as of 2024/04/26
-
-## Windows-Free Tracker
-
-I've been "Windows free" since **August 1st, 2025**.
-
-_Days since going Windows-free:_  **`$(date +%j)` days and counting!**
+- I have **43** tattoos as of 2024/04/26
+- I've been "Windows free" since **September 1st, 2025**, and have no intention of going back.
 
 ---
 
