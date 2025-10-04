@@ -29,7 +29,7 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIyhYjZqvTfUTM5Kg0T1pWVPJQLN5JVBi1AoqE1PKIC5
 
 | Purpose | Preference | Alternatives |
 |---:|:---:|:---:|
-| AI | [![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai) | [![GPT-OSS](https://img.shields.io/badge/GPT_OSS-3DA639?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/topics/llm) |
+| AI | [![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai) | [![GPT-OSS](https://img.shields.io/badge/GPT_OSS-3DA639?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/openai/gpt-oss) |
 | OS | [![CachyOS](https://img.shields.io/badge/CachyOS-FF6B35?style=for-the-badge&logo=linux&logoColor=white)](https://cachyos.org) | [![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos) |
 | Connection Manager | [![xpipe](https://img.shields.io/badge/xpipe-000000?style=for-the-badge&logo=xpipe&logoColor=white)](https://xpipe.io) |  |
 | Containerisation | [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com) |  |
@@ -62,7 +62,7 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIyhYjZqvTfUTM5Kg0T1pWVPJQLN5JVBi1AoqE1PKIC5
     </tr>
     <tr>
         <td><center>Burger Time</center></td>
-        <td><center>Mucha's Zodiac</center></td>
+        <td><center>Mucha's Zodiac (for circular cropped profiles)</center></td>
     </tr>
 </table>
 
